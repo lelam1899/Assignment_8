@@ -1,0 +1,7 @@
+C:\Users\MyPC\source\repos\Session8\Session8\bin\Debug\Session8.exe.config
+C:\Users\MyPC\source\repos\Session8\Session8\bin\Debug\Session8.exe
+C:\Users\MyPC\source\repos\Session8\Session8\bin\Debug\Session8.pdb
+C:\Users\MyPC\source\repos\Session8\Session8\obj\Debug\Session8.csprojAssemblyReference.cache
+C:\Users\MyPC\source\repos\Session8\Session8\obj\Debug\Session8.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\source\repos\Session8\Session8\obj\Debug\Session8.exe
+C:\Users\MyPC\source\repos\Session8\Session8\obj\Debug\Session8.pdb
